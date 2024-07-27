@@ -1,0 +1,8 @@
+com\example\scraper\FacebookScraper.class
+com\example\scraper\SocialMediaScraper.class
+com\example\util\HttpUtil.class
+com\example\model\SocialMediaPage.class
+com\example\scraper\LinkedInScraper.class
+com\example\scraper\InstagramScraper.class
+com\example\scraper\SocialMediaScraperBase.class
+com\example\SocialMediaTool.class
