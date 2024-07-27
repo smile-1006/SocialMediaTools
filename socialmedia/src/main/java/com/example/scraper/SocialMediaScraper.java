@@ -1,11 +1,12 @@
 package com.example.scraper;
 
-import com.example.model.SocialMediaPage;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.example.model.SocialMediaPage;
+
 public class SocialMediaScraper {
-    private List<SocialMediaScraperBase> scrapers;
+    List<SocialMediaScraperBase> scrapers;
 
     public SocialMediaScraper() {
         scrapers = new ArrayList<>();

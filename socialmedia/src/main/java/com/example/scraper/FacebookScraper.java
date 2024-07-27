@@ -1,8 +1,9 @@
 package com.example.scraper;
 
-import com.example.model.SocialMediaPage;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.example.model.SocialMediaPage;
 
 public class FacebookScraper implements SocialMediaScraperBase {
     @Override

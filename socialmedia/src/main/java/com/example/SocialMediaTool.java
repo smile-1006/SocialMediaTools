@@ -1,17 +1,15 @@
 package com.example;
 
-import com.example.scraper.SocialMediaScraper;
-import com.example.scraper.FacebookScraper;
-import com.example.scraper.LinkedInScraper;
-import com.example.scraper.InstagramScraper;
+import java.util.List;
+
 import com.example.model.SocialMediaPage;
+import com.example.scraper.SocialMediaScraper;
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.ListView;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-
-import java.util.List;
 
 public class SocialMediaTool extends Application {
     @Override
